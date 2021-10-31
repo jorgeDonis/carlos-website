@@ -17,7 +17,6 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
 <p>
     Para que una recuperación tenga resultados óptimos necesitamos un abordamiento global. Por eso en mis sesiones vamos a mejorar la fuerza, movilidad, estabilidad y control motor en su conjunto para eliminar tu dolor.
     Un objetivo fundamental es la educación, quiero hacerte consciente de lo que tu cuerpo necesita, no solo para que tus 
