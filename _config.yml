@@ -1,17 +1,17 @@
 # site settings
 title: Carlos
-subtitle: Readaptador físico
-email: jorgedonis99@gmail.com
-description: Experto readaptador deportivo<br /> con más de cinco años de experiencia.
+subtitle: Salud y rendimiento
+email: carlosdonisdelalamo@gmail.com
+description: Metodología basada en calidad de movimiento.<br /> ¿Quieres mejorar tu entrenamiento? ¿Estás lesionado?<br/> Mi deseo es ayudarte a conseguir tus objetivos 
 baseurl: "/carlosfisio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: jorge.donis
 street_address: Avda. Costablanca 102 B9 9D
 city: Alicante
 state: Comunidad Valenciana
 zip_code: 03540
 country: España
-phone: 965 26 07 89
+phone: 619 471 888
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

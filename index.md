@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Página principal
-landing-title: 'Readaptador deportivo profesional'
+landing-title: 'Salud y rendimiento'
 description: null
 image: null
 author: null
