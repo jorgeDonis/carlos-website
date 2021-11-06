@@ -1,8 +1,8 @@
 # site settings
-title: Carlos
+title: Donis
 subtitle: Salud y rendimiento
 email: carlosdonisdelalamo@gmail.com
-description: Metodología basada en calidad de movimiento.<br /> ¿Quieres mejorar tu entrenamiento? ¿Estás lesionado?<br/> Mi deseo es ayudarte a conseguir tus objetivos 
+description: ¿Quieres mejorar tu entrenamiento o estás lesionado? <br /> Te ayudo a conseguir tus objectivos <br /> Metodología basada en calidad de movimiento.
 baseurl: "/carlosfisio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: jorge.donis

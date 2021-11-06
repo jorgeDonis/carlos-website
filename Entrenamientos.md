@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Entrenamientos
-description: Ayuda personalizada. Me ajusto a tus horarios.
-image: assets/images/training_pic_general.jpg
+description: Planificacion individualizada adaptada a tus necesidades.
+image: assets/images/2.jpg
 nav-menu: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Recuperación de lesiones
-description: Recuperación rápida, profesional y efectiva.
-image: assets/images/pt_pic_general.jpg
+title: Fisioterapia
+description: Recuperate de tu lesión o dolor eficazmente.
+image: assets/images/3.jpg
 nav-menu: true
 ---
 
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Recuperación de lesiones</h1>
+			<h1>Fisioterapia</h1>
 		</header>
 
 <!-- Content -->
@@ -27,9 +27,9 @@ nav-menu: true
 
 <div class="row">
 	<div class="6u 12u$(small) align-center" style="padding-bottom: 1rem">
-        <a class="button button-primary" href="{% link recuperacion-lesiones/RecuperacionLesionesOnline.md %}">Recuperación online</a>
+        <a class="button button-primary" href="{% link recuperacion-lesiones/RecuperacionLesionesOnline.md %}">Fisioterapia online</a>
     </div>
 	<div class="6u 12u$(small) align-center">
-        <a class="button button-primary" href="{% link recuperacion-lesiones/RecuperacionLesionesPresenciales.md %}">Recuperación presencial</a>
+        <a class="button button-primary" href="{% link recuperacion-lesiones/RecuperacionLesionesPresenciales.md %}">Fisioterapia presencial</a>
 	</div>
 </div>
