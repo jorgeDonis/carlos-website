@@ -25,11 +25,38 @@ nav-menu: true
     En la primera consulta sabrás que te ocurre y cómo cambiarlo.
 </p>
 
-<div class="row">
-	<div class="6u 12u$(small) align-center" style="padding-bottom: 1rem">
-        <a class="button button-primary" href="{% link recuperacion-lesiones/RecuperacionLesionesOnline.md %}">Fisioterapia online</a>
+<div style="text-align: center; margin: auto">
+    <div style="padding-bottom: 1rem; width: 50%; margin: auto; text-align: center">
+        <h2>Plan Online</h2>
+        <h3>4€ / semana</h3>
+        <ul style="text-align: left">
+            <li>Análisis de la lesión</li>
+            <li>Plan de recuperación <i>personalizado</i> </li>
+            <li>Sesiones de ejercicios específicos y correctivos para recuperar la lesión con <b>vídeos
+            realizados personalmente</b> para una mejor asimilación del ejercicio y una correcta técnica de ejecución.</li>
+            <li><b>Consultoría <i>cada semana</i></b> para adaptación de entrenamientos según evolución de la lesión.</li>
+            <li>Apoyo nutricional</li>
+            <li>Recomendación de hábitos saludables</li>
+            <li><b>Resolución de dudas</b> <i>en cualquier momento</i> <b>24/7</b></li>
+            <li style="list-style-type: none"><b><i>*Regalo</i></b>: Sesión de recuperación <i>live</i> <b><i>gratis</i></b></li>
+        </ul>
     </div>
-	<div class="6u 12u$(small) align-center">
-        <a class="button button-primary" href="{% link recuperacion-lesiones/RecuperacionLesionesPresenciales.md %}">Fisioterapia presencial</a>
-	</div>
+</div>
+
+<div class="align-center" style="padding-bottom: 1rem; width: 50%; margin: auto">
+    <h2>Plan Presencial</h2>
+    <h3>4€ / semana</h3>
+    <ul style="text-align: left">
+        <li>Anamnesis de la lesión</li>
+        <li>Plan de recuperación <i>personalizado</i> </li>
+        <li>Apoyo nutricional</li>
+        <li>Recomendación de hábitos saludables</li>
+        <li><b>Resolución de dudas</b> <i>en cualquier momento</i> <b>24/7</b></li>
+        <li><u>Tratamiento de <b>1 hora de fisioterapia + ejercicios específicos y correctivos</b></u></li>
+        <ul>
+            <li><b>Me desplazo a tu domicilio si lo prefieres</b></li>
+            <li>4 sesiones 5€, 10 sesiones, 10€.</li>
+        </ul>
+        <li style="list-style-type: none"><b><i>*Regalo</i></b>: 1ª sesión de anamnesis y valoración <b><i>gratis</i></b></li>
+    </ul>
 </div>
